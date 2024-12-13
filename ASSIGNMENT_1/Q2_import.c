@@ -19,4 +19,4 @@ module_exit(desd_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Module Importing");
-MODULE_AUTHOR("Rahul Rajput <rahulchandanse1@gmail.com>");
+MODULE_AUTHOR("Roshan Avadan");

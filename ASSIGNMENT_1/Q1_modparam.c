@@ -27,5 +27,5 @@ module_exit(desd_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Module Parameter");
-MODULE_AUTHOR("Hardik Cotalia <hardik@gmail.com>");
+MODULE_AUTHOR("Roshan Avadan");
 

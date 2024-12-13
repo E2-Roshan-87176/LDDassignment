@@ -26,5 +26,5 @@ module_exit(proc_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Kernel module demo to display process list starting from the current process");
-MODULE_AUTHOR("Rahul Rajput <rahulchandanse1@gmail.com>");
+MODULE_AUTHOR("Roshan Avadan");
 

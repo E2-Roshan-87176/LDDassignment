@@ -10,4 +10,4 @@ module_init(desd_init);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Hello Kernel Module Split into Multiple source files");
-MODULE_AUTHOR("Rahul Rajput <rahulchandanse1@gmail.com>");
+MODULE_AUTHOR("Roshan Avadan");

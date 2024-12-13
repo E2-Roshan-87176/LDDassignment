@@ -22,7 +22,7 @@ module_exit(desd_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Module Export");
-MODULE_AUTHOR("Rahul Rajput <rahulchandanse1@gmail.com>");
+MODULE_AUTHOR("Roshan Avadan");
 
 EXPORT_SYMBOL(exported_fn);
 EXPORT_SYMBOL_GPL(exported_var);

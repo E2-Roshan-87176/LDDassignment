@@ -22,4 +22,4 @@ module_exit(desd_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Kernel module demo of Kernel Linked List");
-MODULE_AUTHOR("Rahul Rajput <rahulchandanse1@gmail.com>");
+MODULE_AUTHOR("Roshan Avadan");
