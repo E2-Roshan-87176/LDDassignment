@@ -221,4 +221,4 @@ module_exit(pchar_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Day 06 Assignment 01");
-MODULE_AUTHOR("Rahul Rajput <rahulchandanse1@gmail.com>");
+MODULE_AUTHOR("Roshan Avadan");
