@@ -236,4 +236,4 @@ module_exit(pchar_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("HELLO MODULE");
-MODULE_AUTHOR("Rahul Rajput <rahulchandanse1@gmail.com>");
+MODULE_AUTHOR("Roshan Avadan");
